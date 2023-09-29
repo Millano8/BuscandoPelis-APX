@@ -1,0 +1,57 @@
+[
+    {
+        "title" : "The Fabelmans",
+        "rating" : 4,
+        "tags" : ["drama","biografia","comedia"]
+    },
+    {
+        "title" : "Never Look Away",
+        "rating" : 4.8,
+        "tags" : ["drama","2da guerra","belica","biografia"]
+    },
+    {
+        "title" : "The big Lebowsky",
+        "rating" : 5,
+        "tags" : ["comedia","ironica"]
+    },
+    {
+        "title" : "Back to the Future",
+        "rating" : 4.8,
+        "tags" : ["comedia","sci-fy"]
+    },
+    {
+        "title" : "Oppenheimer",
+        "rating" : 4.8,
+        "tags" : ["2da guerra","biografia","drama"]
+    },
+    {
+        "title" : "O brother where art thou",
+        "rating" : 4.4,
+        "tags" : ["ironica","comedia"]
+    },
+    {
+        "title" : "Apocalypse Now",
+        "rating" : 4.9,
+        "tags" : ["belica","biografia","drama"]
+    },
+    {
+        "title" : "Annie Hall",
+        "rating" : 4.8,
+        "tags" : ["drama","biografia","comedia"]
+    },
+    {
+        "title" : "Pulp Fiction",
+        "rating" : 4.7,
+        "tags" : ["drama","accion"]
+    },
+    {
+        "title" : "Once Upon a Time in Hollywood",
+        "rating" : 4.6,
+        "tags" : ["comedia","accion","ironica"]
+    },
+    {
+        "title" : "Before Sunset",
+        "rating" : 4.2,
+        "tags" : ["drama","romance","comedia"]
+    }
+]
